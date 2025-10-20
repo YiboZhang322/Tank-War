@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2025s2-project-2-four-guys",
+  "teamName": "FOUR GUYS",
+  "teamMembers": [
+    {
+      "name": "Yibo Zhang",
+      "github": "YiboZhang322",
+      "email": "yibozhang2@student.unimelb.edu.au"
+    },
+    {
+      "name": "Tong Jin",
+      "github": "Tong-jinn",
+      "email": "tojin1@student.unimelb.edu.au"
+    },
+    {
+      "name": "Zhibang Zhang",
+      "github": "BangBang-No1",
+      "email": "zhibangz@student.unimelb.edu.au"
+    },
+    {
+      "name": "Haoxuan Bi",
+      "github": "Beeeeee-p",
+      "email": "haoxuanb@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "Desk Defense",
+  "gameBlurb": "Desk Defense is a small shooting game we made where you control a tiny cannon on a desk. Enemies appear from different spots and the final boss shoots fireballs at you. You move left and right to dodge and shoot at the right time. It is simple but gets exciting when things speed up."
+
+}
